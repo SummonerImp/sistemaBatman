@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">appBatma</string>
+    <string name="lblBemVindo">Bem Vindo</string>
+    <string name="btnHeroi">Herois</string>
+    <string name="btnVilao">Vilão</string>
+    <string name="btnEquip">Equipamento</string>
+    <string name="lblnomeEquip">Nome do Equipamento: </string>
+    <string name="lblDescEquip">Descrição: </string>
+    <string name="lblFinaEquip">Finalidade: </string>
+    <string name="btnCad">Cadastrar</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintDescEquip">Descrição</string>
+    <string name="hintFinalEquip">Finalidade</string>
+    <string name="lblNomeHero">Nome do Heroi: </string>
+    <string name="lblNomeVilao">Nome do Vilão: </string>
+    <string name="lblCodinome">Codinome: </string>
+    <string name="lblEspecie">Espécie: </string>
+    <string name="lblHabilidades">Habilidades: </string>
+    <string name="lblVulnerab">Vulnerabilidades: </string>
+    <string name="lblAcesso">Nivel de Acesso: </string>
+    <string name="lblEquip">Equipamentos: </string>
+    <string name="lblRival">Rival:</string>
+    <string name="lblEsconderijo">Esconderijo:</string>
+    <string name="lblDate">Data do Ataque: </string>
+    <string name="hintCodinome">Codinome</string>
+    <string name="hintEspecie">Especie</string>
+    <string name="hintHabilidade">Habilidade</string>
+    <string name="hintVulnerab">Vulnerabilidade</string>
+    <string name="hintAcesso">Acesso</string>
+    <string name="hintEquip">Equipamento</string>
+    <string name="hintRival">Rival</string>
+    <string name="hintEsconderijo">Esconderijo</string>
+    <string name="hintDate">Data do Ataque</string>
+    <string name="btnCosul">Consultar</string>
+</resources>
